@@ -22,13 +22,13 @@
   "author": "Raghav Dua <duaraghav8@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chokidar": "^1.6.0",
-    "colors": "^1.1.2",
-    "commander": "^2.9.0",
-    "lodash": "^4.14.2",
+    "chokidar": "1.7.0",
+    "colors": "1.1.2",
+    "commander": "2.11.0",
+    "lodash": "4.17.4",
     "sol-digger": "0.0.2",
-    "sol-explore": "^1.6.1",
-    "solparse": "^1.2.1"
+    "sol-explore": "1.6.2",
+    "solparse": "1.2.5"
   },
   "devDependencies": {
     "chai": "^3.5.0",
